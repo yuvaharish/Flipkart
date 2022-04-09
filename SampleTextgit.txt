@@ -1,3 +1,9 @@
 Hi shadam 
 
 welcome to learn github
+
+git command 
+
+init
+add
+commit
