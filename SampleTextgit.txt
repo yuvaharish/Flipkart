@@ -1,3 +1,6 @@
-Hi shadam 
+<TH><Hi shadam></TH>
+<TR>i learned Gitup </TR>
+<TD>git init</TD>
+git add filename
+git commit -m "first commit"
 
-welcome to learn github
